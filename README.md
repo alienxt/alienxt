@@ -1,7 +1,7 @@
 # Hello World 👋
 [![Blog Badge](https://img.shields.io/badge/blog-100k+%20pageview-brightgreen)](https://alienxt.gitbook.io/notebooks/) [![Mail Badge](https://img.shields.io/badge/-alien.xt.xm@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alien.xt.xm@gmail.com)](mailto:alien.xt.xm@gmail.com)
 ---
-<img align="right" src="https://raw.githubusercontent.com/alienxt/alienxt/master/pic/code.png" />
+<img align="right" src="https://raw.githubusercontent.com/alienxt/alienxt/master/pic/code_1.png" />
 
 
 ### I'm Alien Guo
